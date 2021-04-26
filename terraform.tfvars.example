@@ -1,0 +1,10 @@
+# IBM Cloud API key to create resources
+ibmcloud_api_key = ""
+# Name of the VPC that will be provisioned
+vpc_name = ""
+# The pubic SSH Key that will be used when provisioning the Check Point Instance
+ssh_key          = ""
+# The region where the VPC, networks, and Check Point instance will be provisioned
+region       = ""
+# The resource group that will be used when provisioning resources
+resource_group = ""
